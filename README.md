@@ -1,1 +1,3 @@
 # robotics-ii-project-4
+
+Grasp stability conditions were analyzed for three scenarios of robots collaboratively manipulating a load: Rigid contact, point contact without friction, and point contact with friction. A path was generated to move a large cart in a room using a combination of the probabilistic roadmap method and the offset point method. Then, force profiles were generated which allowed robots to execute this path for each of the three contact scenarios. For each contact scenario, two different trials were performed with different numbers of robots, for a total of 6 trials conducted.
